@@ -7,6 +7,7 @@ This Tableau storyboard analyzes survey data from 602 respondents, focusing on p
 
 The primary objectives of this storyboard are to understand customer purchasing behavior, identify potential business opportunities, and develop strategies to enhance Amazon’s overall customer experience.
 
+## 📸 Snapshots of Dataset
 ![Screenshot 2024-10-21 171806](https://github.com/user-attachments/assets/16790afd-0d24-4224-972b-5e365c17beb3)
 
 ![Screenshot 2024-10-21 171947](https://github.com/user-attachments/assets/26ad00f8-746d-449d-a9c0-a3af93ee42d7)
@@ -30,7 +31,7 @@ The primary objectives of this storyboard are to understand customer purchasing 
 - Provide discount codes or loyalty points to customers who leave reviews to encourage and foster a robust review system.
 - Invest in customer service training and systems, and improve quality control checks to uphold product quality and product accuracy.
 
-## Storyboard
+## 👩‍🏫 Storyboard
 ![Introduction](https://github.com/user-attachments/assets/89488862-a569-4902-8888-c35b20f19e3f)
 ![Scene 1](https://github.com/user-attachments/assets/6040c471-2e8e-4ebc-b189-1d4cfd256fda)
 ![Scene 2](https://github.com/user-attachments/assets/adc73a26-ad4d-4d3a-a4ba-40e90d5100c4)
