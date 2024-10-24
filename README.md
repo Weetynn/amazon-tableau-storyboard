@@ -41,4 +41,4 @@ The primary objectives of this storyboard are to understand customer purchasing 
 ![Scene 6](https://github.com/user-attachments/assets/700fffe5-f8e7-4cc9-8533-07863227718c)
 ![Conclusion](https://github.com/user-attachments/assets/829aefac-1503-4a79-9e60-f143de727f83)
 
-❗ Note: To view the storyboard on Tableau Public, please click [here](https://public.tableau.com/views/AmazonCustomerInsightsDashboard/StoryBoard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+⚠️ Note: To view the storyboard on Tableau Public, please click [here](https://public.tableau.com/views/AmazonCustomerInsightsDashboard/StoryBoard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
